@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-in-daegu)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 👋 Hello World!
 Welcome to coder-in-daegu's World!
 ## 🌱 I know this language!
