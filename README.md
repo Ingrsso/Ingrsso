@@ -5,4 +5,4 @@
 ## 📝 여기로 연락 주세요!
 * 이메일: <coderindaegu@dgsw.hs.kr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeStyleKR)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ingrsso)](https://github.com/anuraghazra/github-readme-stats)
