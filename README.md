@@ -6,7 +6,7 @@
 ### 👋 Hello! My name is SangEun Lee
 **I'm 17 years old, Full Stack Developer learning in S.korea.**<br>
 **Now, I'm currently in learning on DGSW high school.**
-<br>  <br>
+<br><br>
 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
@@ -28,5 +28,4 @@
   <img src="https://img.shields.io/badge/STYLED-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>
   <br><br>
 
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=dgsw18)](https://solved.ac/dgsw18)  
 </div>
