@@ -5,7 +5,6 @@
 
 ### 👋 Hello! My name is SangEun Lee
 **I'm 17 years old, Full Stack Developer learning in S.korea.**<br>
-**Now, I'm currently in learning on DGSW high school.**
 <br><br>
 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
